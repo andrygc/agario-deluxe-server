@@ -29,9 +29,18 @@ Instalar Agar.io Deluxe usando npm
 ```
 
 
-## Autor
-- [@andrygc](https://www.github.com/andrygc)
+
+## Ayuda
+El archivo `agario.config.js` está basado en el archivo `ecosystem.config.js` de `pm2`, en el están configurados cada uno de los módulos de juego del servidor para iniciarse en 4 instancias diferentes, con algunas opciones especificas de pm2, si quieren agregar otras opciones deben configurlas en este archivo para iniciarlo con pm2.
 
 
 ## Licencia
 [MIT Copyright (c) 2024 Andry Noilien Guzmán Cardoza](https://github.com/andrygc/agario-deluxe/blob/main/LICENSE)
+
+
+## Autor
+- [@andrygc](https://www.github.com/andrygc)
+
+
+## 🔗 Enlaces del autor
+[![Redes Sociales](https://allmylinks.com/andrynoilien/)
