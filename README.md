@@ -42,6 +42,6 @@ El archivo `agario.config.js` está basado en el archivo `ecosystem.config.js` d
 - [@andrygc](https://www.github.com/andrygc)
 
 
-[## 🔗 Enlaces del autor
-[![Redes Sociales]([https://allmylinks.com/andrynoilien/](https://support.allmylinks.com/hc/theming_assets/01HZPCFE9ZKMT8JR1F07RHX78S))
-](https://support.allmylinks.com/hc/theming_assets/01HZPCFE9ZKMT8JR1F07RHX78S)
+## 🔗 Enlaces del autor
+[![Redes Sociales]([https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white](https://support.allmylinks.com/hc/theming_assets/01HZPCFE9ZKMT8JR1F07RHX78S))
+](https://support.allmylinks.com/hc/theming_assets/01HZPCFE9ZKMT8JR1F07RHX78S))]([https://katherineoelsner.com/](https://allmylinks.com/andrynoilien/))
