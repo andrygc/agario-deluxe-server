@@ -28,4 +28,4 @@ Instalar Agar.io Deluxe usando npm
 - [@andrygc](https://www.github.com/andrygc)
 
 ## Licencia
-[MIT Copyright (c) 2024 Andry Cardoza](https://choosealicense.com/licenses/mit/)
+[MIT Copyright (c) 2024 Andry Noilien Guzmán Cardoza](https://github.com/andrygc/agario-deluxe/blob/main/LICENSE)
