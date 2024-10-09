@@ -43,4 +43,4 @@ El archivo `agario.config.js` está basado en el archivo `ecosystem.config.js` d
 
 
 ## 🔗 Enlaces del autor
-[![Redes Sociales](https://allmylinks.com/andrynoilien/)
+[![Redes Sociales]([https://allmylinks.com/andrynoilien/](https://support.allmylinks.com/hc/theming_assets/01HZPCFE9ZKMT8JR1F07RHX78S))
