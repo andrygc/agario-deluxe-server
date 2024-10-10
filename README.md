@@ -1,4 +1,4 @@
-<p class="badge" align="center">
+<p align="center">
     <img src="https://github.com/andrygc/agario-deluxe/blob/main/logo.png" height="130">
 </p>
 
