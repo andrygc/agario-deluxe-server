@@ -14,7 +14,7 @@ Servidor open source con todas las funcionalidades del famoso juego Agar.io
 
 
 ## Despliegue
-Se requiere tener instalado `pm2` a nivel global para desplegar los 4 modos de juego de forma independiente como procesos, ya que tendrian q tener abierta 4 terminales para cada modo.
+Se requiere tener instalado `pm2` a nivel global para desplegar los 4 modos de juego de forma independiente como procesos, ya que por el contrario tendrían q tener abierta 4 terminales para cada modo.
 ```bash
   npm install pm2@latest -g
 ```
@@ -23,15 +23,17 @@ Se requiere tener instalado `pm2` a nivel global para desplegar los 4 modos de j
 ## Instalación
 Instalar Agar.io Deluxe usando npm
 ```bash
-  git clone https://github.com/andrygc/agario-deluxe.git
-  cd agario-deluxe
+  git clone https://github.com/andrygc/agario-deluxe-server.git
+  cd agario-deluxe-server
   npm install
   pm2 start agario.config.js
 ```
 
 
 ## Ayuda
-El archivo `agario.config.js` está basado en el archivo `ecosystem.config.js` de `pm2`, en el están configurados cada uno de los módulos de juego del servidor para iniciarse en 4 instancias diferentes, con algunas opciones especificas de pm2, si quieren agregar otras opciones deben configurlas en este archivo para iniciarlo con pm2.
+El archivo `agario.config.js` está basado en el archivo `ecosystem.config.js` de `pm2`, en él están configurados cada uno de los módulos de juego del servidor de forma independiente para iniciarse en 4 instancias diferentes, con algunas opciones específicas de pm2, si quieren agregar otras opciones deben configurlas en este archivo para iniciarlo con pm2.
+
+Tambien pueden iniciar los modos de forma independiente, yo lo hice de esta forma para tener los 4 modos levantados al mismo tiempo, pero pueden borrar los modos y dejar uno solo, pero tendrian q entrar al servidor para cambiar el modo de juego desde los comandos o desde los archivos de configuración.
 
 
 ## Licencia
