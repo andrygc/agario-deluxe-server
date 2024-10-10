@@ -1,5 +1,7 @@
-![Agar.io Deluxe](https://github.com/andrygc/agario-deluxe/blob/main/logo.png)
-
+<p align="center">
+    <img src="https://github.com/andrygc/agario-deluxe/blob/main/logo.png"
+        height="130">
+</p>
 
 # Agar.io Deluxe
 Servidor open source con todas las funcionalidades del famoso juego Agar.io
@@ -43,7 +45,7 @@ El archivo `agario.config.js` está basado en el archivo `ecosystem.config.js` d
 
 
 ## 🔗 Enlaces del autor
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/andry-noilien)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/andry-cardoza)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@andrycardoza)
 
 
