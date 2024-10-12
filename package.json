@@ -1,8 +1,8 @@
 {
-  "name": "Agar.io",
-  "version": "1.0.0",
+  "name": "Agar.io Deluxe",
+  "version": "2.24.0807",
   "description": "Open source Agar.io server",
-  "main": "index.js",
+  "main": "agario.config.js",
   "dependencies": {
     "burrow": "0.0.0",
     "finalhandler": "^1.2.0",
@@ -10,17 +10,17 @@
     "ws": "^8.15.1"
   },
   "scripts": {
-    "start": "node index.js",
+    "start": "pm2 start agario.config.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Faris90/Ogar3"
+    "url": "https://github.com/andrygc/agario-deluxe-server"
   },
-  "author": "Faris90",
-  "license": "Apache License 2.0",
+  "author": "Andry Noilien Guzmán Cardoza",
+  "license": "MIT License",
   "bugs": {
-    "url": "https://github.com/Faris90/Ogar3/issues"
+    "url": "https://github.com/andrygc/agario-deluxe-server"
   },
-  "homepage": "https://github.com/Faris90/Ogar3"
+  "homepage": "https://github.com/andrygc/agario-deluxe-server"
 }
