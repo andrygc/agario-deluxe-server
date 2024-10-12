@@ -26,7 +26,7 @@ Instalar Agar.io Deluxe usando npm
   git clone https://github.com/andrygc/agario-deluxe-server.git
   cd agario-deluxe-server
   npm install
-  pm2 start agario.config.js
+  npm start
 ```
 
 
